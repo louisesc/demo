@@ -1,7 +1,7 @@
 {
   "posts": [
     {"key":"amsterdam","latitude":52.349998474121094,"longitude":4.9166998863220215,"name":"Amsterdam"},
-    {"key":"mem_util_15s","latitude":52.349998474121094,"longitude":4.9166998863220215,"name":"Amsterdam"}
+    {"key":"mem_util_15s","latitude":52.349998474121094,"longitude":4.9166998863220215,"name":"Amsterdam"},
     { "id": 2, "title": "Post 2" },
     { "id": 3, "title": "Post 3" }
   ],
