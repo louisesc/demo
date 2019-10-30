@@ -1,7 +1,9 @@
 {
   "posts": [
     {"key":"amsterdam","latitude":52.349998474121094,"longitude":4.9166998863220215,"name":"mem_util_15s"},
-    { "id": 2, "title": "Post 2" },
+    {"key":"mem_util_15s","latitude":52.349998474121094,"longitude":4.9166998863220215,"name":"Amsterdam"},
+    {"key":"amsterdamro-cbc1","latitude":52.349998474121094,"longitude":4.9166998863220215,"name":"Amsterdam"},
+    {"key":"amsterdamro-cbc1","latitude":52.349998474121094,"longitude":4.9166998863220215,"name":"Amsterdam"},
     { "id": 3, "title": "Post 3" }
   ],
   "comments": [
