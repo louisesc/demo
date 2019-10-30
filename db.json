@@ -1,8 +1,7 @@
 {
   "posts": [
     {"key":"amsterdam_mem","latitude":52.349998474121094,"longitude":4.9166998863220215,"name":"Amsterdam_Mem"},
-    {"key":"mem_util_15s","latitude":52.349998474121094,"longitude":4.9166998863220215,"name":"Amsterdam"},
-    {"key":"amsterdamro-cpu","latitude":52.349998474121094,"longitude":4.9166998863220215,"name":"Amsterdam_CPU"},
+    {"key":"amsterdam_cpu","latitude":52.370216,"longitude":4.895168,"name":"Amsterdam_CPU"},
     {"key":"mem_util_15s_1","latitude":37.983810,"longitude":23.727539,"name":"Athens"},
     {"key":"paris","latitude":48.864716,"longitude":2.349014,"name":"Paris"},
     { "id": 3, "title": "Post 3" }
