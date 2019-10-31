@@ -1,29 +1,13 @@
 {
   "posts": [
-   {
-    "key": "amsterdam",
-    "latitude": 52.3702,
-    "longitude": 4.8952,
-    "name": "Amsterdam"
-  },
-  {
-    "key": "athens",
-    "latitude": 37.983810,
-    "longitude": 23.727539,
-    "name": "Athens"
-  },
-  {
+    {
     "key": "paris",
     "latitude": 48.864716,
     "longitude": 2.349014,
     "name": "Paris"
-  },
-  {
-    "key": "budapest",
-    "latitude": 47.497913,
-    "longitude": 19.040236,
-    "name": "Budapest"
-  }
+    },
+    { "id": 2, "title": "Post 2" },
+    { "id": 3, "title": "Post 3" }
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
