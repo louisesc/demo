@@ -1,7 +1,7 @@
 {
   "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
+    {"key":"amsterdam","latitude":52.349998474121094,"longitude":4.9166998863220215,"name":"Amsterdam"},
+    {"key":"paris","latitude":48.93330001831055,"longitude":2.3666999340057373,"name":"Paris"},
     { "id": 3, "title": "Post 3" }
   ],
   "comments": [
